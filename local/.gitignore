@@ -1,6 +1,6 @@
 /db/database
 /web/log
-migrations/*
+migrations/
 
 # vscode
 .devcontainer
