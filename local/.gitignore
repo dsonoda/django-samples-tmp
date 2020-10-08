@@ -1,0 +1,6 @@
+/db/database
+/web/log
+
+# vscode
+.devcontainer
+.vscode
